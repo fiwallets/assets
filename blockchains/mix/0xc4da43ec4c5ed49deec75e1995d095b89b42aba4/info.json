@@ -1,0 +1,11 @@
+{
+    "name": "MiesSwap Token",
+    "symbol": "MIES",
+    "type": "ERC-20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://miexs.com/token/0xc4da43EC4C5Ed49dEEc75e1995d095b89b42Aba4",
+    "status": "active",
+    "id": "0xc4da43EC4C5Ed49dEEc75e1995d095b89b42Aba4"
+}
