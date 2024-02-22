@@ -2,36 +2,36 @@
   {
     "type": "website",
     "text": "https://scan.miexs.com/",
-    "url": "https://scan.miexs.com/",
+    "url": "https://scan.miexs.com/"
   },
   {
     "type": "coinmarketcap",
     "text": "CoinMarketCap",
-    "url": "https://coinmarketcap.com/",
+    "url": "https://coinmarketcap.com/"
   },
   {
     "type": "coingecko",
     "text": "CoinGecko",
-    "url": "https://www.coingecko.com/",
+    "url": "https://www.coingecko.com/"
   },
   {
     "type": "email",
     "text": "E-mail",
-    "url": "#",
+    "url": "#"
   },
   {
     "type": "blog",
     "text": "Blog",
-    "url": "#",
+    "url": "#"
   },
   {
     "type": "twitter",
     "text": "Twitter",
-    "url": "https://twitter.com/",
+    "url": "https://twitter.com/"
   },
   {
     "type": "whitepaper",
     "text": "Whitepaper",
-    "url": "#",
-  },
+    "url": "#"
+  }
 ]
